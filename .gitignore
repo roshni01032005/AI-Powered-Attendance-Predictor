@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+users.db
+attendance_app.db
