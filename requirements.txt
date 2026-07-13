@@ -1,0 +1,5 @@
+streamlit
+joblib
+plotly
+google-generativeai
+sqlalchemy
